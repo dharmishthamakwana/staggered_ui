@@ -34,7 +34,7 @@ class _staggered_screenState extends State<staggered_screen> {
           pattern: [
             WovenGridTile(1),
             WovenGridTile(
-              6/ 9,
+              6 / 9,
               crossAxisRatio: 0.9,
               alignment: AlignmentDirectional.centerEnd,
             ),
